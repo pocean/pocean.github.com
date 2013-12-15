@@ -1,0 +1,17 @@
+markdown: rdiscount
+permalink: /:title/
+url: http://pocean.github.io
+name: 潘海洋的博客
+author: pocean
+qq: 474223806
+email: panhaiyang@ict.ac.cn
+duoshuo: pocean
+#beian: 浙ICP备12026616号
+#cnzz: 119959
+weibo: 474223806@qq.com
+github: pocean
+pygments: true
+safe: true
+paginate: 20
+about: "性懒惰，喜折腾"
+encoding: "utf-8"
